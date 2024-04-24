@@ -1,0 +1,6 @@
+if SHIELD_THEKNOB
+
+config ZMK_KEYBOARD_NAME
+    default "theknob"
+
+endif

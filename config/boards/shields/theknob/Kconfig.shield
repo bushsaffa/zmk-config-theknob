@@ -1,0 +1,2 @@
+config SHIELD_THEKNOB
+    def_bool $(shields_list_contains, theknob)
